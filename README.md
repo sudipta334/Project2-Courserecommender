@@ -31,24 +31,6 @@ Fields:
 - description
 
 
-
-## Project Structure
-
-
-
-Project2\_CourseRecommender/
-│
-├── assignment2dataset.csv         # Course catalog data
-├── recommend.py                   # Main Python implementation
-├── Course\_Recommendation\_Engine.ipynb  # Jupyter Notebook (optional for demo & submission)
-├── requirements.txt               # Project dependencies
-├── .gitignore                     # Git exclusions (venv, pycache, etc.)
-└── README.md                      # This documentation
-
-
-
-
-
 ## Setup Instructions
 
 ###  Clone the Repository
